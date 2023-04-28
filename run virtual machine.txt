@@ -1,0 +1,3 @@
+cd "C:\Program Files\Oracle\VirtualBox"
+vboxmanage startvm UbuntuResearch --type headless
+vboxmanage controlvm UbuntuResearch poweroff

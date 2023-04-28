@@ -1,0 +1,3 @@
+date	start time	end time	pfisr quality	classification
+2022-03-05	00:00:01	23:59:59	good	
+2022-03-04	00:00:01	23:59:59	good	
