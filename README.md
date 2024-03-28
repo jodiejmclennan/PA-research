@@ -18,3 +18,4 @@ Updated indices are here: http://irimodel.org/indices/
 On my anaconda installation indices are stored for the code at:
 envs/semeter-inversion/lib/python3.9/site-packages/iri2016/iri2016/data/index/{apf107,ig_rz}.dat
 
+testing
